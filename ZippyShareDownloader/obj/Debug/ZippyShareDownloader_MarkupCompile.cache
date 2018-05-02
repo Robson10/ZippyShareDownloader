@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Programowanie\WPF\FileDownloader\ZippyShareDownloader\obj\Debug\
+D:\Programowanie\WPF\FileDownloaderX\ZippyShareDownloader\obj\Debug\
 ZippyShareDownloader
 none
 false
 DEBUG;TRACE
-D:\Programowanie\WPF\FileDownloader\ZippyShareDownloader\App.xaml
+D:\Programowanie\WPF\FileDownloaderX\ZippyShareDownloader\App.xaml
 3-1973818170
 
-25427534214
-80-1478136727
+31837792016
+801882372324
 View\AddLinks.xaml;View\MainWindow.xaml;View\SettingsV.xaml;
 
-False
+True
 

@@ -74,6 +74,7 @@ namespace ZippyShareDownloader.ViewModel
             ClearListCommand = new DelegateCommand(ClearList);
           
         }
+
         #endregion
         
         private void Download()

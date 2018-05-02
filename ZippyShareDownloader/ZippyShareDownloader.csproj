@@ -97,6 +97,8 @@
     <Compile Include="Model\DownloadGroup.cs" />
     <Compile Include="Html\ServicesEnum.cs" />
     <Compile Include="Model\DownloadStatus.cs" />
+    <Compile Include="Model\LinksGroup.cs" />
+    <Compile Include="Model\LinksItem.cs" />
     <Compile Include="Model\ObservableCollectionEX.cs" />
     <Compile Include="Settings.cs" />
     <Compile Include="util\ArchiveUtil.cs" />
@@ -182,9 +184,7 @@
     <Resource Include="Resources\Start.png" />
     <Resource Include="Resources\Stop.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Entity\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
